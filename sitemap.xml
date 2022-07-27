@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://121.37.2.138/link/index.html</loc>
+    <loc>https://lishuang-oss.github.io/link/index.html</loc>
     
     <lastmod>2022-07-26</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://121.37.2.138/categories/index.html</loc>
+    <loc>https://lishuang-oss.github.io/categories/index.html</loc>
     
     <lastmod>2022-07-26</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://121.37.2.138/tags/index.html</loc>
+    <loc>https://lishuang-oss.github.io/tags/index.html</loc>
     
     <lastmod>2022-07-26</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://121.37.2.138/guestbook/index.html</loc>
+    <loc>https://lishuang-oss.github.io/guestbook/index.html</loc>
     
     <lastmod>2022-07-22</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://121.37.2.138/shuoba/index.html</loc>
+    <loc>https://lishuang-oss.github.io/shuoba/index.html</loc>
     
     <lastmod>2022-07-22</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://121.37.2.138/game/index.html</loc>
+    <loc>https://lishuang-oss.github.io/game/index.html</loc>
     
     <lastmod>2022-07-22</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://121.37.2.138/gedan/index.html</loc>
+    <loc>https://lishuang-oss.github.io/gedan/index.html</loc>
     
     <lastmod>2022-07-22</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://121.37.2.138/2022/07/20/hello-world/</loc>
+    <loc>https://lishuang-oss.github.io/2022/07/20/hello-world/</loc>
     
     <lastmod>2022-07-20</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://121.37.2.138/repository/index.html</loc>
+    <loc>https://lishuang-oss.github.io/repository/index.html</loc>
     
     <lastmod>2022-07-19</lastmod>
     
@@ -84,16 +84,16 @@
   
 
   <url>
-    <loc>http://121.37.2.138/</loc>
-    <lastmod>2022-07-26</lastmod>
+    <loc>https://lishuang-oss.github.io/</loc>
+    <lastmod>2022-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://121.37.2.138/tags/ok/</loc>
-    <lastmod>2022-07-26</lastmod>
+    <loc>https://lishuang-oss.github.io/tags/ok/</loc>
+    <lastmod>2022-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -101,8 +101,8 @@
 
   
   <url>
-    <loc>http://121.37.2.138/categories/ok/</loc>
-    <lastmod>2022-07-26</lastmod>
+    <loc>https://lishuang-oss.github.io/categories/ok/</loc>
+    <lastmod>2022-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
