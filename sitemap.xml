@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lishuang-oss.github.io/2022/07/27/test/test/</loc>
+    
+    <lastmod>2022-07-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lishuang-oss.github.io/2022/07/27/hello-world/</loc>
+    
+    <lastmod>2022-07-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lishuang-oss.github.io/link/index.html</loc>
     
-    <lastmod>2022-07-26</lastmod>
+    <lastmod>2022-07-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +31,7 @@
   <url>
     <loc>https://lishuang-oss.github.io/categories/index.html</loc>
     
-    <lastmod>2022-07-26</lastmod>
+    <lastmod>2022-07-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +40,7 @@
   <url>
     <loc>https://lishuang-oss.github.io/tags/index.html</loc>
     
-    <lastmod>2022-07-26</lastmod>
+    <lastmod>2022-07-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -65,15 +83,6 @@
   </url>
   
   <url>
-    <loc>https://lishuang-oss.github.io/2022/07/20/hello-world/</loc>
-    
-    <lastmod>2022-07-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lishuang-oss.github.io/repository/index.html</loc>
     
     <lastmod>2022-07-19</lastmod>
@@ -85,7 +94,7 @@
 
   <url>
     <loc>https://lishuang-oss.github.io/</loc>
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2022-07-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,7 +102,7 @@
   
   <url>
     <loc>https://lishuang-oss.github.io/tags/ok/</loc>
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -102,7 +111,7 @@
   
   <url>
     <loc>https://lishuang-oss.github.io/categories/ok/</loc>
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

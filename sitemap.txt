@@ -1,3 +1,5 @@
+https://lishuang-oss.github.io/2022/07/27/test/test/
+https://lishuang-oss.github.io/2022/07/27/hello-world/
 https://lishuang-oss.github.io/link/index.html
 https://lishuang-oss.github.io/categories/index.html
 https://lishuang-oss.github.io/tags/index.html
@@ -5,7 +7,6 @@ https://lishuang-oss.github.io/guestbook/index.html
 https://lishuang-oss.github.io/shuoba/index.html
 https://lishuang-oss.github.io/game/index.html
 https://lishuang-oss.github.io/gedan/index.html
-https://lishuang-oss.github.io/2022/07/20/hello-world/
 https://lishuang-oss.github.io/repository/index.html
 https://lishuang-oss.github.io/
 https://lishuang-oss.github.io/tags/ok/
