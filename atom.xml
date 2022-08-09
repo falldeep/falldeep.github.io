@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Smile</title>
-  
+  <icon>https://lishuang-oss.github.io/icon.png</icon>
   
   <link href="https://lishuang-oss.github.io/atom.xml" rel="self"/>
   
   <link href="https://lishuang-oss.github.io/"/>
-  <updated>2022-07-27T09:44:22.252Z</updated>
+  <updated>2022-08-03T09:57:12.717Z</updated>
   <id>https://lishuang-oss.github.io/</id>
   
   <author>
@@ -17,46 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://lishuang-oss.github.io/2022/07/27/hello-world/"/>
-    <id>https://lishuang-oss.github.io/2022/07/27/hello-world/</id>
-    <published>2022-07-27T09:44:22.252Z</published>
-    <updated>2022-07-27T09:44:22.252Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>]]></content>
+    <title>基于Butterfly主题魔改的样式查阅</title>
+    <link href="https://lishuang-oss.github.io/posts/2737870d1f47/"/>
+    <id>https://lishuang-oss.github.io/posts/2737870d1f47/</id>
+    <published>2022-08-01T07:28:54.000Z</published>
+    <updated>2022-08-03T09:57:12.717Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot;</summary>
+        
       
     
     
     
-    <category term="ok" scheme="https://lishuang-oss.github.io/categories/ok/"/>
+    <category term="hexo" scheme="https://lishuang-oss.github.io/categories/hexo/"/>
+    
+    <category term="mysql" scheme="https://lishuang-oss.github.io/categories/hexo/mysql/"/>
     
     
-    <category term="ok" scheme="https://lishuang-oss.github.io/tags/ok/"/>
+    <category term="aa" scheme="https://lishuang-oss.github.io/tags/aa/"/>
     
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://lishuang-oss.github.io/2022/07/27/test/test/"/>
-    <id>https://lishuang-oss.github.io/2022/07/27/test/test/</id>
-    <published>2022-07-26T16:37:00.000Z</published>
-    <updated>2022-07-28T07:49:37.379Z</updated>
+    <category term="bb" scheme="https://lishuang-oss.github.io/tags/bb/"/>
     
-    <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;div class=&quot;gallery-group-main&quot;&gt;</span><br><span class="line">&#123;% galleryGroup &#x27;壁紙&#x27; &#x27;收藏的一些壁紙&#x27; &#x27;/Gallery/wallpaper&#x27; https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png %&#125;</span><br><span class="line">&#123;% galleryGroup &#x27;漫威&#x27; &#x27;關於漫威的圖片&#x27; &#x27;/Gallery/marvel&#x27; https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg %&#125;</span><br><span class="line">&#123;% galleryGroup &#x27;OH MY GIRL&#x27; &#x27;關於OH MY GIRL的圖片&#x27; &#x27;/Gallery/ohmygirl&#x27; https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg %&#125;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁紙</div>  <p>收藏的一些壁紙</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">漫威</div>  <p>關於漫威的圖片</p>  <a href='/Gallery/marvel'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">OH MY GIRL</div>  <p>關於OH MY GIRL的圖片</p>  <a href='/Gallery/ohmygirl'></a>  </figcaption>  </figure>  </div>]]></content>
+    <category term="cc" scheme="https://lishuang-oss.github.io/tags/cc/"/>
     
+    <category term="dd" scheme="https://lishuang-oss.github.io/tags/dd/"/>
     
-      
-      
-    <summary type="html">&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span c</summary>
-      
+    <category term="ee" scheme="https://lishuang-oss.github.io/tags/ee/"/>
     
+    <category term="ff" scheme="https://lishuang-oss.github.io/tags/ff/"/>
     
+    <category term="gg" scheme="https://lishuang-oss.github.io/tags/gg/"/>
     
+    <category term="hh" scheme="https://lishuang-oss.github.io/tags/hh/"/>
     
   </entry>
   
