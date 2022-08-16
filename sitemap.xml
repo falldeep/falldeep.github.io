@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.falldeep.cn/bb/index.html</loc>
+    
+    <lastmod>2022-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.falldeep.cn/bibi/index.html</loc>
+    
+    <lastmod>2022-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.falldeep.cn/about/index.html</loc>
     
     <lastmod>2022-08-16</lastmod>
@@ -65,27 +83,9 @@
   </url>
   
   <url>
-    <loc>https://www.falldeep.cn/bb/index.html</loc>
-    
-    <lastmod>2022-08-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.falldeep.cn/game/index.html</loc>
     
     <lastmod>2022-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.falldeep.cn/bibi/index.html</loc>
-    
-    <lastmod>2022-08-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
