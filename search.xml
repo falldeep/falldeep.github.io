@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>基于Butterfly主题魔改的样式查阅</title>
+      <title>Hexo站点记录</title>
       <link href="/archives/undefined.html"/>
       <url>/archives/undefined.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="站点信息"><a href="#站点信息" class="headerlink" title="站点信息"></a>站点信息</h1><p>使用<a href="https://console.cloud.tencent.com/cdn">腾讯云CDN</a>提供全站加速。</p><p>使用<a href="https://console.cloud.tencent.com/cos">腾讯云对象存储cos</a>提供图片存储。</p><p>使用<a href="https://activity.huaweicloud.com/">华为云</a>提供服务器以及域名。</p><p>代码仓库分别用了<a href="https://coding.net/">CODING</a>和<a href="https://github.com/">GitHub</a>。</p><p>使用<a href="https://hexo.io/">Hexo</a>框架以及<a href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a>主题。</p><p>留言板及评论（不开放）使用Twikoo，<a href="https://twikoo.js.org/">官方文档</a>地址。</p><p>音乐插件使用hexo-tag-aplayer，<a href="https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md">官方文档</a>地址。</p><p>电影及书单插件使用hexo-butterfly-douban，<a href="https://github.com/jerryc127/butterfly-plugins/tree/main/hexo-butterfly-douban">官方文档</a>地址。</p><p>哔哔使用kkAPI，<a href="https://kkapi.js.org/guide/">官方文档</a>地址。</p><p>主要的就这样。当然站点也引用了非常多的css和js做了很多的尝试，踩坑以及更改，别问我，我什么都不知道，上面全都是官方文档，自己看吧。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="站点信息"><a href="#站点信息" class="headerlink" title="站点信息"></a>站点信息</h1><p>使用<a href="https://console.cloud.tencent.com/cdn">腾讯云CDN</a>提供全站加速。</p><p>使用<a href="https://console.cloud.tencent.com/cos">腾讯云对象存储cos</a>提供图片存储。</p><p>使用<a href="https://activity.huaweicloud.com/">华为云</a>提供服务器以及域名。</p><p>代码仓库分别用了<a href="https://coding.net/">CODING</a>和<a href="https://github.com/">GitHub</a>。</p><p>使用<a href="https://hexo.io/">Hexo</a>框架以及<a href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a>主题。</p><p>留言板及评论（不开放）使用Twikoo，<a href="https://twikoo.js.org/">官方文档</a>地址。</p><p>音乐插件使用hexo-tag-aplayer，<a href="https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md">官方文档</a>地址。</p><p>电影及书单插件使用hexo-butterfly-douban，<a href="https://github.com/jerryc127/butterfly-plugins/tree/main/hexo-butterfly-douban">官方文档</a>地址。</p><p>哔哔使用kkAPI，<a href="https://kkapi.js.org/guide/">官方文档</a>地址。</p><p>主要的就这样。当然站点也引用了非常多的css和js做了很多的尝试，踩坑以及更改，别问我，我什么都不知道，上面全都是官方文档，自己看吧。</p><p>到今天为止，这个玩意搞得我也很累，要上岸了。</p>]]></content>
       
       
       <categories>
