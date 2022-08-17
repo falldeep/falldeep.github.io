@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.falldeep.cn/archives/undefined.html</loc>
+    
+    <lastmod>2022-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.falldeep.cn/categories/index.html</loc>
     
     <lastmod>2022-08-16</lastmod>
@@ -101,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://www.falldeep.cn/archives/undefined.html</loc>
-    
-    <lastmod>2022-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.falldeep.cn/test/index.html</loc>
     
     <lastmod>2022-08-02</lastmod>
@@ -157,64 +157,15 @@
 
   <url>
     <loc>https://www.falldeep.cn/</loc>
-    <lastmod>2022-08-16</lastmod>
+    <lastmod>2022-08-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.falldeep.cn/tags/aa/</loc>
-    <lastmod>2022-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.falldeep.cn/tags/bb/</loc>
-    <lastmod>2022-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.falldeep.cn/tags/cc/</loc>
-    <lastmod>2022-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.falldeep.cn/tags/dd/</loc>
-    <lastmod>2022-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.falldeep.cn/tags/ee/</loc>
-    <lastmod>2022-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.falldeep.cn/tags/ff/</loc>
-    <lastmod>2022-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.falldeep.cn/tags/gg/</loc>
-    <lastmod>2022-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.falldeep.cn/tags/hh/</loc>
-    <lastmod>2022-08-16</lastmod>
+    <loc>https://www.falldeep.cn/tags/Hexo-Butterfly/</loc>
+    <lastmod>2022-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -222,15 +173,8 @@
 
   
   <url>
-    <loc>https://www.falldeep.cn/categories/hexo/</loc>
-    <lastmod>2022-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.falldeep.cn/categories/hexo/mysql/</loc>
-    <lastmod>2022-08-16</lastmod>
+    <loc>https://www.falldeep.cn/categories/Hexo/</loc>
+    <lastmod>2022-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
