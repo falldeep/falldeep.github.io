@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.falldeep.cn/archives/d93f14a.html</loc>
+    <loc>https://www.falldeep.cn/archives/5f9cd90a.html</loc>
     
     <lastmod>2022-08-18</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.falldeep.cn/archives/5f9cd90a.html</loc>
+    <loc>https://www.falldeep.cn/archives/d93f14a.html</loc>
     
     <lastmod>2022-08-18</lastmod>
     
@@ -191,6 +191,13 @@
 
   
   <url>
+    <loc>https://www.falldeep.cn/tags/%E5%AE%B9%E5%99%A8/</loc>
+    <lastmod>2022-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.falldeep.cn/tags/docker/</loc>
     <lastmod>2022-08-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,6 +206,13 @@
   
   <url>
     <loc>https://www.falldeep.cn/tags/Hexo-Butterfly/</loc>
+    <lastmod>2022-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.falldeep.cn/tags/k8s/</loc>
     <lastmod>2022-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -215,6 +229,13 @@
   
   <url>
     <loc>https://www.falldeep.cn/categories/Hexo/</loc>
+    <lastmod>2022-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.falldeep.cn/categories/k8s/</loc>
     <lastmod>2022-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
