@@ -6,7 +6,7 @@
   <link href="https://www.falldeep.cn/atom.xml" rel="self"/>
   
   <link href="https://www.falldeep.cn/"/>
-  <updated>2022-08-17T09:58:23.741Z</updated>
+  <updated>2022-08-18T09:54:50.992Z</updated>
   <id>https://www.falldeep.cn/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>k8s平滑缩容</title>
+    <link href="https://www.falldeep.cn/archives/d93f14a.html"/>
+    <id>https://www.falldeep.cn/archives/d93f14a.html</id>
+    <published>2022-08-18T09:53:45.000Z</published>
+    <updated>2022-08-18T09:54:50.992Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;k8s-node节点平滑缩容&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>容器磁盘高清理方法</title>
     <link href="https://www.falldeep.cn/archives/5f9cd90a.html"/>
     <id>https://www.falldeep.cn/archives/5f9cd90a.html</id>
     <published>2022-08-17T09:51:11.000Z</published>
-    <updated>2022-08-17T09:58:23.741Z</updated>
+    <updated>2022-08-18T01:15:21.931Z</updated>
     
     
       
@@ -34,6 +55,10 @@
     
     
     
+    <category term="docker" scheme="https://www.falldeep.cn/categories/docker/"/>
+    
+    
+    <category term="docker" scheme="https://www.falldeep.cn/tags/docker/"/>
     
   </entry>
   
