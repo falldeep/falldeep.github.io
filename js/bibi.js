@@ -3,7 +3,7 @@ let total = 0
 let nowNum = 0
 let items = []
 let page = 1
-let Url = 'https://www.falldeep.cn/api/ispeak?author=62f0c73bf76c77462d374ca9&page=' // 修改api，记得带参数page
+let Url = 'https://bb.falldeep.cn/api/ispeak?author=62f0c73bf76c77462d374ca9&page=' // 修改api，记得带参数page
 
 
 window.addEventListener('DOMContentLoaded', () => {
