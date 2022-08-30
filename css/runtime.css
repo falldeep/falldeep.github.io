@@ -1,3 +1,3 @@
-/* build time:Fri Aug 26 2022 18:05:50 GMT+0800 (China Standard Time)*/
+/* build time:Tue Aug 30 2022 15:53:59 GMT+0800 (China Standard Time)*/
 div#runtime{width:fit-content;color:#fff;padding:0 10px;border-radius:10px;background-color:rgba(0,0,0,.7)}[data-theme=dark] div#runtime{color:#28b4c8;box-shadow:0 0 5px rgba(28,69,218,.71);animation:flashlight 1s linear infinite alternate}@-moz-keyframes flashlight{from{box-shadow:0 0 5px #1478d2}to{box-shadow:0 0 2px #1478d2}}@-webkit-keyframes flashlight{from{box-shadow:0 0 5px #1478d2}to{box-shadow:0 0 2px #1478d2}}@-o-keyframes flashlight{from{box-shadow:0 0 5px #1478d2}to{box-shadow:0 0 2px #1478d2}}@keyframes flashlight{from{box-shadow:0 0 5px #1478d2}to{box-shadow:0 0 2px #1478d2}}
 /* rebuild by neat */
